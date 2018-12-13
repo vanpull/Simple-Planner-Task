@@ -1,5 +1,5 @@
 # Simple-Planner-Task
-Assignment Task
+Simple Planner
 Application was developed using Windows Form, Entity Framework.
 
 Step 1 - Unzip the Planning tool Compiled folder and update the current Database connection String details on Config file.
